@@ -3,4 +3,5 @@ The issue under consideration is to conduct a binary classification using a comb
 defined as '1' for 'Positive Review' and '0' for 'Negative Review'. This study will employ various text-based features, including n-Grams, vectorized features such as
 bag of words, term frequency inverse term frequency, and average word 2 vector. Logistic regression will be used for classification purposes. Additionally, this project
 discusses the necessary text preprocessing methods because they contribute to avoiding overfitting and reducing computational complexity by removing noise from the text, 
-such as common words.
+such as common words. <br>
+Deployment Link: https://sanayya-sentiment-analysis-of-product-based-reviews--app-s0x0b2.streamlit.app/
